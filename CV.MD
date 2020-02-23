@@ -17,7 +17,7 @@ Want to get a Junior Java position. Willing to learn and work hard.
 * jUnit, TestNG
 
 ## My code:
-'''
+```java
 	    Scanner scanner = new Scanner(System.in);
         int numOfElements = scanner.nextInt();
         int curRes = 0;
@@ -44,7 +44,7 @@ Want to get a Junior Java position. Willing to learn and work hard.
             maxRes = curRes;
         }
         System.out.println(maxRes);
-'''
+```
 
 ## Experience:
 - https://github.com/dremlin2215
