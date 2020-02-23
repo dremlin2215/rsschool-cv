@@ -18,7 +18,7 @@ Want to get a Junior Java position. Willing to learn and work hard.
 
 ## My code:
 ```java
-	    Scanner scanner = new Scanner(System.in);
+	Scanner scanner = new Scanner(System.in);
         int numOfElements = scanner.nextInt();
         int curRes = 0;
         int maxRes = 0;
