@@ -1,1 +1,1 @@
-# rsschool-cv
+[link to CV](https://dremlin2215.github.io/rsschool-cv/CV)
